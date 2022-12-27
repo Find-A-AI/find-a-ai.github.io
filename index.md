@@ -3,8 +3,7 @@ title: FIND-A (파인드 알파)
 ---
 
 FIND-A(파인드 알파)는 2020년 설립되어 약 40명의 학부, 석사, 박사과정생과 현직자가 활동 중인 금융공학학회입니다.  
-FIND-A는 Financial Data Analysis의 약자로, 금융 산업 전반의 디지털 전환(Digital Transformation)에 발 맞추어 금융공학적 역량을 지닌 인재를 양상하는 것으로 목표로 하고 있습니다. 저희 학회원은 Asset Pricing, Statistical Arbitrage & System Trading, Natural Language Processing for Finance, Econometrics 중 한 개 이상의 팀에 소속되어 금융 공학 분야를 학습하고 있으며 공모전에 참가하거나 직접 논문을 출판하는 등 연구 일선에도 기여하고 있습니다. 
-
+FIND-A는 Financial Data Analysis의 약자로, 금융 산업 전반의 디지털 전환에 발 맞추어 금융공학적 역량을 지닌 인재를 양상하는 것으로 목표로 하고 있습니다. 저희는 금융 분야를 학습하는 것에서 나아가 한국정보처리학회, 한국지능정보시스템학회, 등에 저희 연구 결과물을 출판하며 연구 일선에도 기여하고 있습니다. 
 
 > [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
