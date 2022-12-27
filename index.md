@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Welcome to Find-A.
 ---
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
