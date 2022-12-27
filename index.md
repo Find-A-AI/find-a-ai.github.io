@@ -1,13 +1,8 @@
 ---
-title: Welcome to Find-A.
+title: FIND-A
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
-
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+FIND-A(파인드 알파)는 다양한 금융 유관 분야의 학부, 석사, 박사과정생과 현직자들로 이루어진 금융 빅데이터 분석 학회입니다. 
 
 > [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
