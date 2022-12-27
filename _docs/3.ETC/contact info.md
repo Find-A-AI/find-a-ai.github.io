@@ -1,6 +1,6 @@
 ---
 title: contact info
-category: contact
+category: etc
 order: 1
 ---
 
