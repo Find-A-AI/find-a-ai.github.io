@@ -11,7 +11,7 @@ order: 2
   - 02.03 신입 학회원 OT (오후 3시; 참여 필수)
   
 ## 지원 절차 
-  - FIND-A의 지원을 위해서는 아래의 1. 지원서와 2. 코딩 테스트 풀이를 2024년 1월 24일 23시 59분 이전까지 아래 메일로 접수해야합니다. 코딩 테스트의 정답 여부는 면접 후 의사결정에 참고만 될 뿐 결과에 절대적이지 않으니 편한 마음으로 풀이 부탁드립니다. 
+  - FIND-A의 지원을 위해서는 아래의 1. 지원서와 2. 코딩 테스트 풀이를 2024년 1월 25일 23시 59분 이전까지 아래 메일로 접수해야합니다. 코딩 테스트의 정답 여부는 면접 후 의사결정에 참고만 될 뿐 결과에 절대적이지 않으니 편한 마음으로 풀이 부탁드립니다. 
   
   지원서: [지원서 링크 바로가기](https://docs.google.com/document/d/1X4QLxmcirEohDsQqpdI46rPvu67S50gx/edit?usp=sharing&ouid=110873388418645635400&rtpof=true&sd=true)   
   코딩 테스트 문제지: [코딩 테스트 문제지 바로가기](https://drive.google.com/drive/folders/1kHWCycXBTQGyEhZXFiOvLkA5bQiDISYU?usp=sharing)  
