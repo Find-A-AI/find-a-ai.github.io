@@ -18,7 +18,7 @@ FIT 구성원들은 활동 기간 동안 한 편 이상의 논문을 의무적�
   - 개인 연구: FIT의 주요 목표는 개인 연구 진행이며, 구성원 분들은 1학기 1개 이상의 연구 계획서를 의무적으로 제출해야 합니다. 나아가, 직접 논문을 출판하는 것을 권장하고 있습니다.
 
 ### FIT 연구 성과
-  - 윤효정, 김찬영, 함문정, 김규리, 손규진. [Esg classification by implicit rule learning via gpt-4[(https://aclanthology.org/2024.finnlp-1.28/). FinNLP@LREC-COLING2024
+  - 윤효정, 김찬영, 함문정, 김규리, 손규진. [Esg classification by implicit rule learning via gpt-4](https://aclanthology.org/2024.finnlp-1.28/). FinNLP@LREC-COLING2024
   - 정지영, 이소연, 용예린, 김민준. [데이터 증강 기법의 앙상블을 통한 레이블 불균형 해소: 설명 가능한 신용평가 모델을 중심으로](https://drive.google.com/file/d/1nk3KuAZz87BcU2dkxiU0ElsYg7utIFIa/view?usp=sharing). 한국정보처리학회 2023 추계학술대회.
   - 손규진, 정한얼, 함문정, 나건주 외 1명. [Beyond Classification: Financial Reasoning in State-of-the-Art Language Models](https://arxiv.org/abs/2305.01505). FinNLP@IJCAI2023
   - 이한울 외 3명. [EaSyGuide : ESG Issue Identification Framework leveraging Abilities of Generative Large Language Models](https://arxiv.org/abs/2306.06662). FinNLP@IJCAI2023
