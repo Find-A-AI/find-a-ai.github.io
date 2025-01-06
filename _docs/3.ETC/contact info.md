@@ -1,8 +1,12 @@
 ---
-title: contact info
+title: Contact Information
 category: etc
 order: 1
 ---
 
-Contact us via: [admin@finda-group.com](admin@finda-group.com)
-or [KakaoTalk](https://pf.kakao.com/_raUJK).
+For general inquiries, reach us at:  
+[admin@finda-group.com](mailto:admin@finda-group.com)  
+or via [KakaoTalk](https://pf.kakao.com/_raUJK).
+
+For recruitment-related questions, please contact:  
+[finda.recruitment@gmail.com](mailto:finda.recruitment@gmail.com)
