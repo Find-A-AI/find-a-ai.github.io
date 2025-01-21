@@ -14,6 +14,8 @@ order: 2
   - FIND-A의 지원을 위해서는 아래의 지원서를 구글폼으로 제출해주시길 바랍니다.
 
   지원서: [지원서 링크 바로가기](https://docs.google.com/document/d/1X4QLxmcirEohDsQqpdI46rPvu67S50gx/edit?usp=sharing&ouid=110873388418645635400&rtpof=true&sd=true)   
+  지원서는 다운로드 후 PDF 변환하여 구글폼으로 제출하시면 됩니다.
+  
   접수 구글폼: [구글폼 링크 바로가기](https://forms.gle/xGr4qq8AKAzo9Nr99)
   
 ## 지원자 자격 조건
